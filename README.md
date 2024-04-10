@@ -10,3 +10,5 @@
 
 *Lưu ý*
 - khi signup hoặc login thành công server sẽ gửi về Token. Hãy sử dụng token này để xác thực trong API gửi về backend thông qua head với key Authorization (VD :'Authorization': 'Token 123')
+
+1231231231231
